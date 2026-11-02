@@ -122,7 +122,9 @@ A useful checklist ends in evidence, not a completed-looking set of boxes. Defin
 ## Where a unified API route fits—and what still needs verification
 
 A unified API can reduce provider-specific adapter work, but it does not remove route validation. The unified provider still has its own model IDs, request schema, output handling, limits, pricing, account rules, lifecycle process, and availability evidence.
+
 Moduck publishes this article. Its confirmed product materials cover model discovery, selection, pricing information, and API access, but they do not establish that Veo 3.1 or Gemini Omni Flash is currently available through Moduck—or that its interface matches either Google route.
+
 If Moduck remains on your shortlist, compare its [current model documentation](https://docs.moduck.ai/) against the same model ID, interface, pricing, eligibility, and availability checks used for Google. If the required model or contract cannot be verified, keep the first-party route in the lead.
 
 ## Choose the route you can validate and reverse
